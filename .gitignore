@@ -1,0 +1,27 @@
+# ---------- Java compiled files ----------
+*.class
+
+# ---------- Eclipse IDE files ----------
+bin/
+.classpath
+.project
+.settings/
+.metadata/
+.recommenders/
+
+# ---------- Other build output ----------
+out/
+target/
+
+# ---------- Other IDEs (in case you open the project elsewhere) ----------
+.idea/
+*.iml
+.vscode/
+
+# ---------- Logs and temporary files ----------
+*.log
+*.tmp
+
+# ---------- Operating system files ----------
+.DS_Store
+Thumbs.db
